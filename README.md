@@ -27,7 +27,7 @@ Unscramble_Words/
 To get started with the project, clone the repository and install the required dependencies.
 
 ```
-git clone https://github.com/irasalsabila/unscramble-words.git
+git clone https://github.com/irasalsabila/unscramble_words.git
 cd unscramble-words
 pip install -r requirements.txt
 ```
